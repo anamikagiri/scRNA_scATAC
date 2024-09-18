@@ -23,4 +23,4 @@ ATAC data is preprocessed by running the TF-IDF transformation and performing di
 The FindMultiModalNeighbors function is used to compute the Weighted Nearest Neighbors (WNN) graph, which integrates the RNA and ATAC data into a single structure.
 Clustering and UMAP:
 
-UMAP is run using the WNN graph, and clusters are identified based on the WNN graph (wsnn). The clusters are visualized using DimPlot. Differentially expressed genes and motifs are determined
+UMAP is run using the WNN graph, and clusters are identified based on the WNN graph (wsnn). The clusters are visualized using DimPlot. Differentially expressed genes and motifs are determined.
